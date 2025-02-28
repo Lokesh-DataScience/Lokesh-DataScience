@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on self projects.<br><br>👯 I’m looking to collaborate on data science projects.<br><br>🤝 I’m looking for help with gaining real-world industrial experience in data science.<br><br>🌱 I’m currently learning advanced machine learning techniques and best practices for deploying models in production environments.<br><br>💬 Ask me about data analysis, machine learning, deep learning and generative ai.<br><br>⚡ Fun fact: I discovered my passion for data science in the first year of college and have been hooked ever since!
+# About Me:  
+🔭 I’m currently working on self projects in data science and Django development.<br><br>👯 I’m looking to collaborate on data-driven web applications and full-stack projects.<br><br>🤝 I’m looking for help with gaining real-world industrial experience in data science and Django-based web development.<br><br>🌱 I’m currently learning advanced machine learning techniques, best practices for deploying models in production, and building scalable web applications using Django.<br><br>💬 Ask me about data analysis, machine learning, deep learning, generative AI, and Django development.<br><br>⚡ Fun fact: I discovered my passion for data science in my first year of college, and now I'm merging it with web development to create impactful applications!
 
 
 ## 🌐 Socials:
